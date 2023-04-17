@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pallavjain12
-- 👀 I’m interested in open-source projects, compitetive coding, automating tasks, linux.
+- 👀 I’m interested in open-source projects, compitetive coding, automating tasks, linux, developing softwares and much more.
 - 🌱 I’m currently learning algorithms, software systems and pursuing Master's in Computer Science and Engineering from IIIT, Bangalore, India.
 - 📫 How to reach me
   - [LinkedIn](https://www.linkedin.com/in/pallavjain12/)
